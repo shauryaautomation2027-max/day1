@@ -1,0 +1,50 @@
+[
+  {
+    "file_name": "inocice-1 (1) (1).pdf",
+    "file_path": "/home/saurabh/day1/day2/components/invoice_pdf/inocice-1 (1) (1).pdf",
+    "parsed_data": {
+      "vendor": "Amazon  Seller  Services  Pvt  Ltd  Vendor  Email:  billing@amazon.com   Bill  To:  Saurabh  Agrahari  Shiamgir,  India   Items:  Laptop  Stand      1    ₹1500  Mouse             1    ₹700   Subtotal:  ₹2200  Tax:  ₹396  Total  Amount:  ₹2596",
+      "invoice_no": "INV-1001",
+      "amount": 2596.0,
+      "currency": null,
+      "due_date": null,
+      "line_items": []
+    }
+  },
+  {
+    "file_name": "inocice-6 (1).pdf",
+    "file_path": "/home/saurabh/day1/day2/components/invoice_pdf/inocice-6 (1).pdf",
+    "parsed_data": {
+      "vendor": "flipcartSeller  Services  Pvt  Ltd  Vendor  Email:  billing@amazon.com   Bill  To:  Saurabh  Agrahari  Shiamgir,  India   Items:  Laptop  Stand      1    ₹90  Mouse             1    ₹10   Subtotal:  ₹100  Tax:  ₹5  Total  Amount:  ₹105",
+      "invoice_no": "INV-1001",
+      "amount": 105.0,
+      "currency": null,
+      "due_date": null,
+      "line_items": []
+    }
+  },
+  {
+    "file_name": "inocice-6.pdf",
+    "file_path": "/home/saurabh/day1/day2/components/invoice_pdf/inocice-6.pdf",
+    "parsed_data": {
+      "vendor": "flipcartSeller  Services  Pvt  Ltd  Vendor  Email:  billing@amazon.com   Bill  To:  Saurabh  Agrahari  Shiamgir,  India   Items:  Laptop  Stand      1    ₹90  Mouse             1    ₹10   Subtotal:  ₹100  Tax:  ₹5  Total  Amount:  ₹105",
+      "invoice_no": "INV-1001",
+      "amount": 105.0,
+      "currency": null,
+      "due_date": null,
+      "line_items": []
+    }
+  },
+  {
+    "file_name": "invoice-9.pdf",
+    "file_path": "/home/saurabh/day1/day2/components/invoice_pdf/invoice-9.pdf",
+    "parsed_data": {
+      "vendor": "myntra  Seller  Services  Pvt  Ltd  Vendor  Email:  billing@amazon.com  Bill  To:  Saurabh  Agrahari  Shiamgir,  India  Items:  Laptop  Stand  1  ₹2999  Mouse  1  ₹1000  Subtotal:  ₹3000  Tax:  ₹396  Total  Amount:  ₹2596",
+      "invoice_no": "INV-1009",
+      "amount": 2596.0,
+      "currency": null,
+      "due_date": null,
+      "line_items": []
+    }
+  }
+]
