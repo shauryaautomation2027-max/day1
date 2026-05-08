@@ -1,0 +1,50 @@
+[
+  {
+    "file_name": "inocice-1 (1) (1).pdf",
+    "file_path": "/home/saurabh/day1/day2/components/invoice_pdf/inocice-1 (1) (1).pdf",
+    "parsed_data": {
+      "vendor": null,
+      "invoice_no": null,
+      "amount": null,
+      "currency": null,
+      "due_date": null,
+      "line_items": []
+    }
+  },
+  {
+    "file_name": "inocice-6 (1).pdf",
+    "file_path": "/home/saurabh/day1/day2/components/invoice_pdf/inocice-6 (1).pdf",
+    "parsed_data": {
+      "vendor": null,
+      "invoice_no": null,
+      "amount": null,
+      "currency": null,
+      "due_date": null,
+      "line_items": []
+    }
+  },
+  {
+    "file_name": "inocice-6.pdf",
+    "file_path": "/home/saurabh/day1/day2/components/invoice_pdf/inocice-6.pdf",
+    "parsed_data": {
+      "vendor": null,
+      "invoice_no": null,
+      "amount": null,
+      "currency": null,
+      "due_date": null,
+      "line_items": []
+    }
+  },
+  {
+    "file_name": "invoice-9.pdf",
+    "file_path": "/home/saurabh/day1/day2/components/invoice_pdf/invoice-9.pdf",
+    "parsed_data": {
+      "vendor": null,
+      "invoice_no": null,
+      "amount": null,
+      "currency": null,
+      "due_date": null,
+      "line_items": []
+    }
+  }
+]

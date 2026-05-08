@@ -1,0 +1,25 @@
+{
+  "source_pdf": "invoice-9.pdf",
+  "model": "gemini-2.0-flash",
+  "parsed_data": {
+    "vendor": "myntra Seller Services Pvt Ltd",
+    "invoice_no": "INV-1009",
+    "amount": 2596.0,
+    "currency": "\u20b9",
+    "due_date": null,
+    "line_items": [
+      {
+        "description": "Laptop Stand",
+        "quantity": 1.0,
+        "unit_price": 2999.0,
+        "total": 2999.0
+      },
+      {
+        "description": "Mouse",
+        "quantity": 1.0,
+        "unit_price": 1000.0,
+        "total": 1000.0
+      }
+    ]
+  }
+}
